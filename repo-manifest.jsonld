@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/piskvorky/gensim/commit/37f90ec121eb7cd401448a947e80953e0c53ccdc",
       "git:hexsha": "37f90ec121eb7cd401448a947e80953e0c53ccdc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/piskvorky/gensim/commit/65d46565c32a8866d2530bec68fd546f3d77fbe6",

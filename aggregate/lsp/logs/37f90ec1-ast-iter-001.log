@@ -1,0 +1,7 @@
+[2026-10-17T07:49:48Z] === AST ITERATION 1 START | repo=piskvorky/gensim sha=37f90ec1 ===
+[2026-10-17T07:49:48Z] [iter=1] PHASE START: ast repo=piskvorky/gensim sha=37f90ec1
+[2026-10-17T07:49:48Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T07:54:31Z] [iter=1] AST chunks built count=1 triples=2308566
+[2026-10-17T07:54:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/37f90ec121eb7cd401448a947e80953e0c53ccdc/.complete
+[2026-10-17T07:54:31Z] [iter=1] PHASE END: ast elapsed_s=283 elapsed_min=4.7
+[2026-10-17T07:54:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
